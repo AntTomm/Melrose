@@ -30,7 +30,7 @@ Throughout this emissions report, we were able to determine that multiple parts 
 
 ![LOW MMBTU](https://github.com/AntTomm/Melrose/assets/148288592/e8e8f2b1-9658-494b-b7e8-92479b3de4ba)
 
-
+With Bronxdale having an alarmingly high MMBTU, it goes to show that there is most likely a high demand for things like heat and a high volume of citizens living there. However, high MMBTU contributes to varioius types of pollution such as Greenhouse Gas Emissions, land pollution (waste disposal), indoor air pollution, and chemical pollution since there are constant chemicals being released into the air. This may also contribute to the idea we discussed in HC4, where the Bronx is lagging behind the other boroughs in terms of its emissions goal. Last time we researched, it was only determined that the Bronx reached a mere 7% decline. 
 
 
 
