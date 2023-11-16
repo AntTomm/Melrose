@@ -37,20 +37,20 @@ With Bronxdale having an alarmingly high MMBTU, it goes to show that there is mo
 From the following bar graph, we are able to determine that Bronxdale has the **most** amount of housing for residents, with the number being well over 80. South Fordham, on the other hand, exhibts the lowest amount of available housing. Since South Fordham is located in the South Bronx, when compared to our findings in HC4, the South Bronx often has increasingly concerning traffic congestion. This may elucidate the idea that there are too much highways and roads, but not enough space for residents. They also contribute heavily to the c02 emissions - affecting around 17% of young children in the South Bronx neighborhoods.
 
 **Building Type Distribution in the Bronx:**
-Elevator Apartments               0.530040
-Walk-Up Apartments                0.425234
-Educational Structures            0.012016
-Churches, Synagogues, etc.        0.007343
-Factory & Industrial Buildings    0.005340
-Store Buildings                   0.004005
-Condominiums                      0.004005
-Office Buildings                  0.003338
-Hospitals & Health                0.003338
-Warehouses                        0.002670
-Vacant Land                       0.001335
-Hotels                            0.000668
-Asylums & Homes                   0.000668
-Name: Building Type, dtype: float64
+- Elevator Apartments               0.530040
+- Walk-Up Apartments                0.425234
+- Educational Structures            0.012016
+- Churches, Synagogues, etc.        0.007343
+- Factory & Industrial Buildings    0.005340
+- Store Buildings                   0.004005
+- Condominiums                      0.004005
+- Office Buildings                  0.003338
+- Hospitals & Health                0.003338
+- Warehouses                        0.002670
+- Vacant Land                       0.001335
+- Hotels                            0.000668
+- Asylums & Homes                   0.000668
+
 
 *Concerningly, the reader could notice that *"Hospitals and Health"* are towards the ***bottom*** of the list. This may explain why so many people have health issue within the Bronx that go untreated, since there are no nearby hospitals. There are also an **alarming number of Factory & Industrial buildings**, which we can note that there is an increased risk of c02 emissions since there is a large amount of them.*
 
