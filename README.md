@@ -32,7 +32,30 @@ Throughout this emissions report, we were able to determine that multiple parts 
 
 With Bronxdale having an alarmingly high MMBTU, it goes to show that there is most likely a high demand for things like heat and a high volume of citizens living there. However, high MMBTU contributes to varioius types of pollution such as Greenhouse Gas Emissions, land pollution (waste disposal), indoor air pollution, and chemical pollution since there are constant chemicals being released into the air. This may also contribute to the idea we discussed in HC4, where the Bronx is lagging behind the other boroughs in terms of its emissions goal. Last time we researched, it was only determined that the Bronx reached a mere 7% decline. 
 
+![RESUNITS](https://github.com/AntTomm/Melrose/assets/148288592/a4c7cacc-99fe-4ebf-ac33-aa1010f6bd24) 
 
+From the following bar graph, we are able to determine that Bronxdale has the **most** amount of housing for residents, with the number being well over 80. South Fordham, on the other hand, exhibts the lowest amount of available housing. Since South Fordham is located in the South Bronx, when compared to our findings in HC4, the South Bronx often has increasingly concerning traffic congestion. This may elucidate the idea that there are too much highways and roads, but not enough space for residents. They also contribute heavily to the c02 emissions - affecting around 17% of young children in the South Bronx neighborhoods.
 
+**Building Type Distribution in the Bronx:**
+Elevator Apartments               0.530040
+Walk-Up Apartments                0.425234
+Educational Structures            0.012016
+Churches, Synagogues, etc.        0.007343
+Factory & Industrial Buildings    0.005340
+Store Buildings                   0.004005
+Condominiums                      0.004005
+Office Buildings                  0.003338
+Hospitals & Health                0.003338
+Warehouses                        0.002670
+Vacant Land                       0.001335
+Hotels                            0.000668
+Asylums & Homes                   0.000668
+Name: Building Type, dtype: float64
+
+*Concerningly, the reader could notice that *"Hospitals and Health"* are towards the ***bottom*** of the list. This may explain why so many people have health issue within the Bronx that go untreated, since there are no nearby hospitals. There are also an **alarming number of Factory & Industrial buildings**, which we can note that there is an increased risk of c02 emissions since there is a large amount of them.*
+
+Average building age in the Bronx: ***1929.0***
+
+We notice that the **"average building age"** of most buildings in the Bronx is **1929**. This is a huge contribution to the health of the children and elderly living in certain parts like Melrose or Mott Haven, since they are at increased chances of getting asthma. The materials used in the buildings are also extremely old, and most likely spread cancer causing or gaseous air throughout the borough.
 
 
