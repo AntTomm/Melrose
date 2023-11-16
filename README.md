@@ -61,4 +61,9 @@ We notice that the **"average building age"** of most buildings in the Bronx is 
 
 <iframe src="MelroseData.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+<img width="809" alt="CodeOFFICIAL" src="https://github.com/AntTomm/Melrose/assets/148288592/c2bde4fe-be4e-49c2-8054-7dc96ef3ca89">
+
+
 Using ***folium*** along with ***pandas***, I was able to create a interactive html map in Python! I took specific columns and rows from my CSV file and created a variable to match the names within the conditions of the columns and rows. In a for loop, I initiated lat, lon, and name as 3 variables that pulls the exact coordinates and names for each marker, and then I initiate a variable newMarker = folium.Marker([lat, lon], popup=name), which adds each marker to the map. After the for loop is done going through it, the html map is successfully saved onto my desktop!
+
+
