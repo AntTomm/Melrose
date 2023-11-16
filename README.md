@@ -27,6 +27,8 @@ The New York City "Clean Heat Program" was started by the NYS Energy Research & 
 
 Throughout this emissions report, we were able to determine that multiple parts of the city have been also trying to stop c02 emissions, such as the Department of Education. The DOE contributed a ttoal decline of 14% across all boroughs including the Bronx. However, we also learned that the Bronx is also one of the few boroughs that is lagging behind with their emissions goal as compared to other states; . The borough has only seen a 7% decrease in their emissions, while the highest borough has been Staten Island with 16%. Traffic and car congestion has gotten increasingly worse from 2017 - 2022, and it contributes highly to the emissions even today. This is mostly depicted in certain Bronx neighborhoods such as Mott Haven and Port Morris, both located in the South Bronx. Emission sources within the Bronx mirrored those of the city at large. Residential, commercial, and industrial buildings in the Bronx contributed to emissions primarily  through energy use.
 
+### HC 7 & 8: Data Analysis - Borough + Neighborhoods:
+
 
 
 
